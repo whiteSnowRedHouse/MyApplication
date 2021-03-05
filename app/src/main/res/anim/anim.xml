@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+<!--  duration定义动画持续时间，单位毫秒；
+fromAlpha定义起始动画的透明度，0表示完全透明
+toAlpha表示动画结束时的透明度
+  -->
+    <alpha
+        android:duration="2000"
+        android:fromAlpha="0"
+        android:toAlpha="1"
+        >
+    </alpha>
+</set>
